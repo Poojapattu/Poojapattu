@@ -56,26 +56,59 @@ Check them out here 👉 [GitHub Portfolio](https://github.com/Poojapattu/Poojap
 
 ---
 
+---
+
 ### 🛠️ Languages & Tools
 
+**Languages:**  
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="r" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" alt="powerbi" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" alt="tableau" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache-spark/apache-spark-original.svg" alt="apache spark" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/>
-  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="hugging face" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
 </p>
+
+**Frameworks & Libraries:**  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-learn" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  <img src="https://matplotlib.org/3.1.1/_static/logo2_compressed.svg" alt="Matplotlib" width="40" height="40"/>
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" alt="PySpark" width="40" height="40"/>
+</p>
+
+**Tools & Databases:**  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" alt="Power BI" width="40" height="40"/>
+  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="Git" width="40" height="40"/>
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="Oracle" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="40" height="40"/>
+  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="40" height="40"/>
+</p>
+
+**Core Concepts:**  
+<p align="left">
+  <img src="https://img.icons8.com/external-flat-juicy-fish/344/external-data-structures-algorithms-flat-flat-juicy-fish.png" alt="Data Structures" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/oop.png" alt="OOP" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluency/48/000000/database.png" alt="DBMS" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/linux--v1.png" alt="Operating Systems" width="40" height="40"/>
+  <img src="https://img.icons8.com/external-itim2101-flat-itim2101/64/external-computer-network-network-technology-itim2101-flat-itim2101.png" alt="Computer Networks" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluency/48/000000/combo-chart.png" alt="Data Visualization" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" alt="AI" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluency/48/machine-learning.png" alt="Machine Learning" width="40" height="40"/>
+</p>
+
+---
+
 
 
 ---
