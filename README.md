@@ -72,20 +72,49 @@ Check them out 👉 [GitHub Portfolio](https://github.com/Poojapattu/Poojapattu)
 
 ### 🛠️ Tech Stack
 
-**Languages:**  
-Python | SQL | Java | JavaScript | HTML | CSS  
+#### 👨‍💻 Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql,java,js,html,css" />
+</p>
 
-**Libraries & Frameworks:**  
-Scikit-learn | TensorFlow | Keras | Pandas | NumPy | Matplotlib | Seaborn  
+#### 📚 Libraries & Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+  <img src="https://skillicons.dev/icons?i=pytorch" />
+  <img src="https://skillicons.dev/icons?i=scikitlearn" />
+</p>
 
-**Tools & Platforms:**  
-Git | GitHub | Power BI | MySQL | MongoDB | Oracle | VS Code | Jupyter | Google Colab  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50"/>
+  <img src="https://matplotlib.org/_static/images/logo2.svg" width="50"/>
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="90"/>
+</p>
 
-**Core Concepts:**  
-Data Structures | OOP | DBMS | OS | Computer Networks | Data Visualization | AI | ML  
+#### 🛠️ Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
----
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="50"/>
+  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="50"/>
+</p>
 
+#### ⚙️ Core Concepts
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/oop.png"/>
+  <img src="https://img.icons8.com/fluency/48/000000/database.png"/>
+  <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
+  <img src="https://img.icons8.com/external-itim2101-flat-itim2101/64/external-computer-network-network-technology-itim2101-flat-itim2101.png"/>
+  <img src="https://img.icons8.com/fluency/48/000000/combo-chart.png"/>
+  <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png"/>
+  <img src="https://img.icons8.com/fluency/48/machine-learning.png"/>
+</p>
 ### 📊 GitHub Stats
 
 <p align="center">
