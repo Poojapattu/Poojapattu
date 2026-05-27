@@ -22,20 +22,30 @@
 
 ### 💼 Internship Experience
 
-**🤖 AIML Intern – BICS Global**  
-- Built and optimized machine learning models for real-world datasets  
-- Worked on data preprocessing, feature engineering, and model evaluation  
-- Gained hands-on exposure to AI workflows and deployment concepts  
+#### 🤖 AIML Intern — BICS Global
 
-**📊 Data Science Intern – Social MM**  
-- Performed data cleaning, EDA, and visualization on business datasets  
-- Developed ML models to extract insights and support decision-making  
-- Used Python libraries like Pandas, NumPy, and Scikit-learn  
+* Developed AI-powered applications including a **Text-to-SQL Chatbot** and **AI Document Analyzer (AskPDF)** using LLMs and NLP techniques
+* Built intelligent information retrieval pipelines for unstructured datasets, improving processing efficiency by **35%**
+* Worked on machine learning workflows including preprocessing, feature engineering, model optimization, and deployment concepts
 
-**⚙️ Automation Intern – Social MM**  
-- Automated repetitive workflows using Python scripts  
-- Improved efficiency of internal processes  
-- Worked with data handling and task automation  
+#### 📊 Data Science Intern — SocialMM
+
+* Built a **Vendor Invoice Intelligence System** using machine learning models to automate invoice validation and risk prediction, reducing manual effort by **60%**
+* Developed an **IT Ticket Support Analyzer** using NLP techniques to classify and prioritize support requests, improving resolution efficiency by **45%**
+* Designed an **A/B Test Regression Model** for marketing campaigns to evaluate conversion performance and support data-driven decision making
+
+#### ⚙️ Automation Intern — SocialMM
+
+* Developed automated data pipelines integrating MCA and OpenCorporates datasets, reducing data collection time by **70%**
+* Implemented data validation and cleansing workflows, improving data quality and consistency by **40%**
+* Structured and processed startup ecosystem datasets for analytics and reporting applications, improving retrieval efficiency by **50%**
+
+#### 🏢 Data Engineering Intern — Clinbiosciences
+
+* Built CRM and HR data workflows to automate employee and client data management, reducing manual processing effort by **40%**
+* Designed ETL pipelines for data ingestion, transformation, and reporting, improving reporting accuracy by **35%**
+* Developed analytics dashboards for HR and business operations, reducing reporting turnaround time by **50%**
+
 
 ---
 
